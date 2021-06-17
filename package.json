@@ -1,5 +1,5 @@
 {
-  "name": "svgsprit.es",
+  "name": "svgsprite",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,7 +17,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "http://svgsprit.es",
+  "homepage": "https://svgsprite.netlify.app",
   "browserslist": [
     ">0.2%",
     "not dead",
